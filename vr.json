@@ -2,15 +2,15 @@
   "questions": [
     {
       "answers": [
-        "Igen, pontosan siker\u00fclt",
-        "Nem, mert alul lett \u00edgy is becs\u00fclve",
-        "Nem, mert t\u00fal lett becs\u00fclve"
+        "Minimally invasive surgery trainer virtual reality",
+        "Maximally invasive surgery trainer virtual reality",
+        "Minimally invasive student trainer virtual reality"
       ],
       "correct": {
-        "index": 1
+        "index": 0
       },
       "number": 1,
-      "prompt": "Siker\u00fclt-e pontosan meghat\u00e1rozni a j\u00e1t\u00e9kipar glob\u00e1lis piac\u00e1nak m\u00e9ret\u00e9t 2018-ban 2020-ra?"
+      "prompt": "Minek a r\u00f6vid\u00edt\u00e9se a MIST-VR?"
     },
     {
       "answers": [
@@ -21,43 +21,31 @@
         "index": 1
       },
       "number": 2,
-      "prompt": "Az alabbiak kōzūl melyik virtuális valóság típus?"
-    },
-    {
-      "answers": [
-        "Kitett virtualis valosag",
-        "Kivetitett virtualis valosag",
-        "Korlatolt virtualis valosag"
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 3,
-      "prompt": "Az alabbiak kozul melyik a sebeszet oktatas celjabol keszult virtualis technologia?"
+      "prompt": "VR k\u00f6rnyezetet csak kiz\u00e1r\u00f3lag sz\u00e1m\u00edt\u00f3g\u00e9p seg\u00edts\u00e9g\u00e9vel lehet?"
     },
     {
       "answers": [
         "Lapsam",
-        "Samlap", 
+        "Samlap",
         "Lapsim"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Az alabbiak k\u00f6z\u00fcl melyik a seb\u00e9szet oktat\u00e1s c\u00e9lj\u00e1b\u00f3l k\u00e9sz\u00fclt virtu\u00e1lis technol\u00f3gia?"
+    },
+    {
+      "answers": [
+        "Nem k\u00ednal k\u00e9nyelmet a felhaszn\u00e1l\u00f3nak",
+        "Megk\u00f6nny\u00edti az adott oktat\u00e1st",
+        "Nem tudunk vele l\u00e9trehozni re\u00e1lis vil\u00e1got"
       ],
       "correct": {
         "index": 1
       },
       "number": 4,
-      "prompt": "Mi a virtualis valosag elonye?"
-    },
-    {
-      "answers": [
-        "Nem kinal kenyelmet",
-        "Megkonnyiti az adott oktatast",
-        "Nem lehet vele letrehozni realis vilagot"
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 5,
-      "prompt": "A SINERGIA hany oktatasi modulbol all?"
+      "prompt": "Mi a virtu\u00e1lis val\u00f3s\u00e1g el\u0151nye?"
     },
     {
       "answers": [
@@ -68,8 +56,8 @@
       "correct": {
         "index": 2
       },
-      "number": 6,
-      "prompt": "Hanyas evekben kezdtek hasznalni az egeszsegugy teruleten a VR alkalmazasokat?"
+      "number": 5,
+      "prompt": "A SINERGIA h\u00e1ny oktat\u00e1si modulb\u00f3l \u00e1ll?"
     },
     {
       "answers": [
@@ -78,10 +66,23 @@
         "2010"
       ],
       "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "H\u00e1nyas \u00e9vekben kezdtek haszn\u00e1lni az eg\u00e9szsegugy ter\u00fclet\u00e9n a VR alkalmaz\u00e1sokat?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
         "index": 1
-      }
+      },
+      "number": 7,
+      "prompt": "A LawVR egy seb\u00e9szeti virtu\u00e1lis val\u00f3s\u00e1g alkalmaz\u00e1s?"
     }
   ],
-  "title": "Virtal Reality az egészségūgyben Quiz",
+  "title": "Virtal Reality a eg\u00e9szs\u00e9g\u00fcgyben Quiz",
   "url": null
 }
