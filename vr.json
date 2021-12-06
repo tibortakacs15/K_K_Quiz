@@ -1,0 +1,117 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Igen, pontosan siker\u00fclt",
+        "Nem, mert alul lett \u00edgy is becs\u00fclve",
+        "Nem, mert t\u00fal lett becs\u00fclve"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Siker\u00fclt-e pontosan meghat\u00e1rozni a j\u00e1t\u00e9kipar glob\u00e1lis piac\u00e1nak m\u00e9ret\u00e9t 2018-ban 2020-ra?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Egy 2D-s vagy egy 3D-s vide\u00f3j\u00e1t\u00e9k ugyan\u00fagy er\u0151s\u00edteni tudja a j\u00e1t\u00e9kos fizikai jelenl\u00e9t\u00e9t, mint egy VR j\u00e1t\u00e9k?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "Egy VR j\u00e1t\u00e9kban a mozg\u00e1s is hasonl\u00f3an realisztikus, mint a j\u00e1t\u00e9kos k\u00f6rben\u00e9zel\u0151d\u00e9se?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "VR k\u00f6rnyezetet csak kiz\u00e1r\u00f3lag sz\u00e1m\u00edt\u00f3g\u00e9p seg\u00edts\u00e9g\u00e9vel lehet?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 5,
+      "prompt": "A VR seg\u00edtheti j\u00e1t\u00e9kon bel\u00fcli karakterekkel val\u00f3 azonosul\u00e1st?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "VR j\u00e1t\u00e9kokn\u00e1l el\u00e9g csup\u00e1n egy VR szem\u00fcveg (Head-Mounted-Display) eszk\u00f6z?"
+    },
+    {
+      "answers": [
+        "Igaz",
+        "Hamis"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 7,
+      "prompt": "VR-al szembeni elv\u00e1r\u00e1sokba nem tartozik bele az, hogy az objektumoknak \u00e9s t\u00e1rgyaknak term\u00e9szetesnek kell lenni\u00fck. Igaz vagy Hamis?"
+    },
+    {
+      "answers": [
+        "Igen",
+        "Nem"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 8,
+      "prompt": "Kev\u00e9sb\u00e9 ny\u00fajt-e VR \u00e9lm\u00e9nyt egy olcs\u00f3bb Google Cardboard + okostelefon megold\u00e1s?"
+    },
+    {
+      "answers": [
+        "Igaz",
+        "Hamis"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 9,
+      "prompt": "A VR felhaszn\u00e1l\u00f3n\u00e1l vagy j\u00e1t\u00e9kosn\u00e1l a fizikai mellett fell\u00e9phet negat\u00edv ment\u00e1lis mell\u00e9khat\u00e1s is. Igaz vagy Hamis?"
+    },
+    {
+      "answers": [
+        "Igaz",
+        "Hamis"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "Jelenleg a VR j\u00e1t\u00e9k c\u00e9lra minden el\u0151ny\u00e9vel, lehet\u0151s\u00e9g\u00e9vel \u00e9s h\u00e1tr\u00e1ny\u00e1val egy\u00fctt t\u00fal k\u00f6lts\u00e9ges. Igaz vagy Hamis?"
+    }
+  ],
+  "title": "Virtal Reality a j\u00e1t\u00e9kiparban Quiz",
+  "url": null
+}
