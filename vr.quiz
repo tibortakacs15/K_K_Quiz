@@ -4,60 +4,50 @@
 
 
 // this is the title of the quiz
-# Virtal Reality a játékiparban Quiz
+# Virtal Reality a egészségügyben Quiz
 
 // this is an example question.
 // the number signifies the question order,
 // meaning questions can be placed in random order
 // within the file
-1) Sikerült-e pontosan meghatározni a játékipar globális piacának méretét 2018-ban 2020-ra?
-  - Igen, pontosan sikerült
-  * Nem, mert alul lett így is becsülve
-  - Nem, mert túl lett becsülve
+1) Minek a rövidítése a MIST-VR?
+  * Minimally invasive surgery trainer virtual reality
+  - Maximally invasive surgery trainer virtual reality
+  - Minimally invasive student trainer virtual reality
 
 
-2) Egy 2D-s vagy egy 3D-s videójáték ugyanúgy erősíteni tudja a játékos fizikai jelenlétét, mint egy VR játék?
+2) VR környezetet csak kizárólag számítógép segítségével lehet?
   - Igen
   * Nem
 
 
-3) Egy VR játékban a mozgás is hasonlóan realisztikus, mint a játékos körbenézelődése?
+3) Az alabbiak közül melyik a sebészet oktatás céljából készült virtuális technológia?
+  - Lapsam
+  - Samlap
+  * Lapsim
+
+
+4) Mi a virtuális valóság előnye?
+  - Nem kínal kényelmet a felhasználónak
+  * Megkönnyíti az adott oktatást
+  - Nem tudunk vele létrehozni reális világot
+
+
+5) A SINERGIA hány oktatási modulból áll?
+  - 5
+  - 6
+  * 7
+
+
+6) Hányas években kezdtek használni az egészsegugy területén a VR alkalmazásokat?
+  * 1990
+  - 2000
+  - 2010
+
+
+7) A LawVR egy sebészeti virtuális valóság alkalmazás?
   - Igen
   * Nem
 
-
-4) VR környezetet csak kizárólag számítógép segítségével lehet?
-  - Igen
-  * Nem
-
-
-5) A VR segítheti játékon belüli karakterekkel való azonosulást?
-  * Igen
-  - Nem
-
-
-6) VR játékoknál elég csupán egy VR szemüveg (Head-Mounted-Display) eszköz?
-  - Igen
-  * Nem
-
-
-7) VR-al szembeni elvárásokba nem tartozik bele az, hogy az objektumoknak és tárgyaknak természetesnek kell lenniük. Igaz vagy Hamis?
-  - Igaz
-  * Hamis
-
-
-8) Kevésbé nyújt-e VR élményt egy olcsóbb Google Cardboard + okostelefon megoldás?
-  * Igen
-  - Nem
-
-
-9) A VR felhasználónál vagy játékosnál a fizikai mellett felléphet negatív mentális mellékhatás is. Igaz vagy Hamis?
-  * Igaz
-  - Hamis
-
-
-10) Jelenleg a VR játék célra minden előnyével, lehetőségével és hátrányával együtt túl költséges. Igaz vagy Hamis?
-  * Igaz
-  - Hamis
 
 
